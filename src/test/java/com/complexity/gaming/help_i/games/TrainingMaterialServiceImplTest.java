@@ -1,4 +1,4 @@
-package com.complexity.gaming.help_i.games.application;
+package com.complexity.gaming.help_i;
 
 import com.complexity.gaming.help_i.training.domain.model.TrainingMaterial;
 import com.complexity.gaming.help_i.security.domain.repository.ExpertRepository;
@@ -25,6 +25,7 @@ import static org.mockito.Mockito.when;
 
 @ExtendWith(SpringExtension.class)
 public class TrainingMaterialServiceImplTest {
+
     @MockBean
     private TrainingMaterialRepository trainingMaterialRepository;
 

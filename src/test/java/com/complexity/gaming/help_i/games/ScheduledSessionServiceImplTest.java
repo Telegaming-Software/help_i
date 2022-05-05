@@ -1,4 +1,4 @@
-package com.complexity.gaming.help_i.games.application;
+package com.complexity.gaming.help_i;
 
 import com.complexity.gaming.help_i.session.domain.model.ScheduledSession;
 import com.complexity.gaming.help_i.security.domain.repository.ExpertRepository;
